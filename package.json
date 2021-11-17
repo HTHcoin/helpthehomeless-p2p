@@ -52,7 +52,7 @@
     "url": "https://github.com/HTHcoin/helpthehomeless-p2p.git"
   },
   "dependencies": {
-    "@HTHcoin/helpthehomeless-lib": "^0.19.25",
+    "@HTHcoin/helpthehomeless-lib",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^1.2.8"
