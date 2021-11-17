@@ -1,5 +1,5 @@
 {
-  "name": "@dashevo/dashcore-p2p",
+  "name": "@HTHcoin/helpthehomeless-p2p",
   "version": "1.2.2",
   "description": "Interface to the dash P2P network for Dashcore",
   "author": "Dash Core Group, Inc. <dev@dash.org>",
@@ -49,10 +49,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dashevo/dashcore-p2p.git"
+    "url": "https://github.com/HTHcoin/helpthehomeless-p2p.git"
   },
   "dependencies": {
-    "@dashevo/dashcore-lib": "^0.19.25",
+    "@HTHcoin/helpthehomeless-lib",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^1.2.8"
