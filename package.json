@@ -1,5 +1,5 @@
 {
-  "name": "@HTHcoin/helpthehomeless-p2p",
+  "name": "helpthehomeless-p2p",
   "version": "1.2.2",
   "description": "Interface to the dash P2P network for Dashcore",
   "author": "Dash Core Group, Inc. <dev@dash.org>",
